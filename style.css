@@ -1,4 +1,8 @@
 body {
     color: white;
     background-color: black;
+}section{
+    background: blue;
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
